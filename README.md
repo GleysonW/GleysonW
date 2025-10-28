@@ -1,11 +1,83 @@
-# 💫 About Me:
-Hello World
+<div align="center">
 
+<img src="https://github.com/GleysonW/GleysonW/blob/main/frieren.png" width="150px" style="border-radius: 50%;"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gleysonwenderson/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gleysonw/) 
+# 👋 Olá! Eu sou Gleyson Souza
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+**Profissional de Dados | Business Intelligence | Data Visualization**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*"Analyzing data with elven precision"* 🧙‍♀️📊
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfoliogleysonw.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gleysonw)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gleysonwenderson3@gmail.com)
+
+</div>
+
+---
+
+## 🚀 Sobre Mim
+
+Profissional de Dados especializado em **análise e visualização**, transformando dados complexos em **dashboards interativos** e **insights acionáveis**.
+
+🔭 Trabalhando com Power BI, Tableau, Python e SQL  
+🌱 Aprendendo Machine Learning e AWS  
+📊 Apaixonado por transformar dados em histórias visuais  
+📍 Gravatá, PE - Brasil
+
+---
+
+## 🛠️ Tech Stack
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📈 Projetos em Destaque
+
+**🔬 [Dashboard COVID-19 e Mobilidade](https://github.com/GleysonW/DASHBOARD-COVID-AND-MOBILITY)**  
+Análise de 7M+ registros de COVID-19 com visualizações geoespaciais e correlação com mobilidade  
+`Python` `Dash` `Plotly` `ETL`
+
+**💼 [Dashboards Power BI - DSA](https://github.com/GleysonW/projetos-powerbi)**  
+Coleção de dashboards de BI com modelagem dimensional e DAX avançado  
+`Power BI` `DAX` `ETL` `Modelagem`
+
+**📱 [E-Farm - Análise Financeira](https://github.com/GleysonW/efarm-mobile)**  
+Sistema de análise financeira rural com grádicos e KPIs em tempo real  
+`React Native` `Node.js` `Visualização de Dados`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GleysonW&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GleysonW&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github.com/GleysonW/GleysonW/blob/main/frieren.png" width="100px"/>
+
+**💙 Obrigado pela visita!**
+
+*"A jornada dos dados nunca termina... e isso é bom!"*
+
+![Visitors](https://komarev.com/ghpvc/?username=GleysonW&color=blueviolet&style=flat-square)
+
+</div>
