@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/GleysonW/GleysonW/blob/main/frieren.png" width="150px" style="border-radius: 50%;"/>
-
 # 👋 Olá! Eu sou Gleyson Souza
 
 **Profissional de Dados | Business Intelligence | Data Visualization**
@@ -32,13 +30,16 @@ Profissional de Dados especializado em **análise e visualização**, transforma
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -61,11 +62,11 @@ Sistema de análise financeira rural com grádicos e KPIs em tempo real
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GleysonW&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GleysonW&layout=compact&theme=tokyonight&hide_border=true)
-
+  
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=GleysonW&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GleysonW&layout=compact&langs_count=7&theme=github_dark"/>
+  
 </div>
 
 ---
